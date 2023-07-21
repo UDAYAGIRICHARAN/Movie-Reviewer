@@ -1,6 +1,6 @@
 # Movie Reviewer System
 
-## Movie Reviewer System is where users can check the  ratings, do the rating,and see the movie details like trailer.s 
+## Movie Reviewer System is where users can check the  ratings, do the rating, and see the movie details like trailers and info about updates.
 
 ## Technologies Used
 
